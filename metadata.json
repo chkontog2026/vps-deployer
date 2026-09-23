@@ -1,0 +1,6 @@
+{
+  "name": "ShipVPS - GitHub to VPS & Domain Deployer",
+  "description": "Deploy any GitHub repository to your VPS with automated setup, reverse proxy, custom domain mapping, and SSL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
